@@ -1,0 +1,1 @@
+The Appointment Scheduling System is a Flask-based web application that allows customers to book appointments online by submitting their details through a form. The system stores appointments in an SQLite database, displaying them in a structured table, and enables easy viewing and management of scheduled appointments.
